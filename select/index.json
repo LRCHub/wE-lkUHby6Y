@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君はス・テ・キ",
+  "base_artist": "平井　堅",
+  "createdAt": "2026-02-27T07:31:58.075481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君はス・テ・キ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_君はス・テ・キ_平井_堅.txt"
+    }
+  ]
+}
