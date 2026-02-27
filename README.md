@@ -1,7 +1,64 @@
-# 平井　堅 – 君はス・テ・キ
+# 平井　堅 – UPSET
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-歌詞を選択/登録してください
+人の心奪っといてさ
+実は裏でちゃっかり
+本命クンと何食わぬ顔ですか?
+人のカラダ散々弄んでさ
+味わい尽くしたら
+ポイ捨てですか?
+重々承知しています
+身勝手なクレームを
+もちろん重々承知しています
+愚かな自分を
+もうこれ以上は角が立つので
+Tell you in English
+Hey Betcha
+makin' out with someone
+Scamming in the dark
+You're a BAD GIRL
+Beggin'"Gimme More!"
+Was it any better?
+With your favourite no.1 ?!
+You're a FAKE GIRL
+You totally set me up...
+虫一匹 殺さぬ顔して
+やる事ちゃっかり
+結構タチの悪いDevilですね
+バックの中で震える携帯
+慌てる様に僕にキスをした
+温厚な人間で普段は通ってます
+だけど少々御立腹です今度ばかりは
+あ゛ーこれ以上は
+イメージあるんで
+Translate in English
+Hey Betcha
+makin' out with someone
+Scamming in the dark
+You're a BAD GIRL
+Beggin'"Gimme More!"
+Was it any better?
+With your favourite no.1 ?!
+You're a FAKE GIRL
+You totally set me up...
+Hey Betcha
+makin' out with someone
+Scamming in the dark
+You're a BAD GIRL
+Beggin'"Gimme More!"
+Was it any better?
+With your favourite no.1 ?!
+You're a FAKE GIRL
+You totally set me up...
+Hey Betcha
+makin' out with someone
+Scamming in the dark
+You're a BAD GIRL
+Beggin'"Gimme More!"
+Was it any better?
+With your favourite no.1 ?!
+You're a FAKE GIRL
+You totally set me up...
 ```
