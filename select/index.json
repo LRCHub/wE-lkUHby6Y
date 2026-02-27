@@ -1,16 +1,144 @@
 {
   "version": 1,
-  "base_track": "君はス・テ・キ",
+  "base_track": "UPSET",
   "base_artist": "平井　堅",
-  "createdAt": "2026-02-27T07:32:14.512001Z",
+  "createdAt": "2026-02-27T07:56:29.544277Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Upset",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_I'm_Upset_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Upset My Girlfriend",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/02_Upset_My_Girlfriend_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Upset Me",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/03_You_Upset_Me_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Confused and Upset",
+      "artist": "Terry Scott Taylor",
+      "has_synced": false,
+      "path": "select/04_Confused_and_Upset_Terry_Scott_Taylor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Be Upset",
+      "artist": "Jeffrey & Jack Lewis",
+      "has_synced": true,
+      "path": "select/05_Don't_Be_Upset_Jeffrey_&_Jack_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Are You Upset? - Original Version",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/06_Are_You_Upset__-_Original_Version_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Are You Upset? (Original Version)",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/07_Are_You_Upset__(Original_Version)_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Upset Me Baby",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/08_You_Upset_Me_Baby_Gary_Moore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Upset Me, Baby",
+      "artist": "Joe Bonamassa",
+      "has_synced": true,
+      "path": "select/09_You_Upset_Me,_Baby_Joe_Bonamassa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Upset Me, Baby",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/10_You_Upset_Me,_Baby_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "02 - You Upset Me Baby.mp3",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/11_02_-_You_Upset_Me_Baby.mp3_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Upset Me Baby",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/12_You_Upset_Me_Baby_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Upset",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/13_I'm_Upset_Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Upset Me Baby",
+      "artist": "Joe Bonamassa",
+      "has_synced": true,
+      "path": "select/14_You_Upset_Me_Baby_Joe_Bonamassa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Upset the Rhythm (Go Baby Go)",
+      "artist": "Noisettes",
+      "has_synced": true,
+      "path": "select/15_Don't_Upset_the_Rhythm_(Go_Baby_Go)_Noisettes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Upset The Rhythm (Go Bab",
+      "artist": "Noisettes",
+      "has_synced": true,
+      "path": "select/16_Don't_Upset_The_Rhythm_(Go_Bab_Noisettes.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "君はス・テ・キ",
+      "title": "UPSET",
       "artist": "平井 堅",
       "has_synced": false,
-      "path": "select/pl_01_君はス・テ・キ_平井_堅.txt"
+      "path": "select/pl_01_UPSET_平井_堅.txt"
     }
   ]
 }
